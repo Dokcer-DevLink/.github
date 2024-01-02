@@ -20,20 +20,13 @@
 
 🛠️ Backend
 <br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/SPRING DATA JPA-010101?style=for-the-badge&logo=spring data jpa&logoColor=white">
-<img src="https://img.shields.io/badge/SPRING SECURITY-717171?style=for-the-badge&logo=spring security&logoColor=white">
-<img src="https://img.shields.io/badge/SPRING CLOUD-010101?style=for-the-badge&logo=spring cloud&logoColor=white">
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=spring boot&logoColor=white">
-<img src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
-<img src="https://img.shields.io/badge/Kafka-232F3E?style=for-the-badge&logo=kafka&logoColor=white">
-<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+| Component | Tech Stack |
+|:--------:|:--------:|
+| **Framework** | <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-%2302303A?logo=gradle&logoColor=white"> |
+| **ORM** | <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%2343853D?logo=springdatajpa&logoColor=white"> |
+| **Authorization** | <img src="https://img.shields.io/badge/Spring%20Security-%230A60A8?logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-%231A1A1A?logo=jsonwebtokens&logoColor=white"> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white"> |
 
 🛠️ DevOps
 <br>
-
-## 🚀 Architecture
-### 🛠️ Infra
-
-<img width="9116" alt="인프라아키텍처" src="https://github.com/Dokcer-DevLink/.github/assets/80077569/9ab61405-c861-4bb0-87fe-5271897ed503">
