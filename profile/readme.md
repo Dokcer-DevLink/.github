@@ -9,5 +9,5 @@
 |<img src="https://avatars.githubusercontent.com/u/90954655?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/79830859?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/80077569?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/12035241?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/127823969?v=4" width=200>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |[김재만](https://github.com/mannMae)|[김문성](https://github.com/moonstar0331)|[강민구](https://github.com/mgKang3646)|[성종욱](https://github.com/Jongwook-Seong)|[최승진](https://github.com/digitaltulbo)|
-|**Frontend**|**Backend&DevOps**|**Backend**|**Backend**|**DevOps**|
+|**Frontend**|**Backend/DevOps**|**Backend**|**Backend**|**DevOps**|
 
