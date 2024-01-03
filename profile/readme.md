@@ -28,8 +28,8 @@
 | **Authorization** | <img src="https://img.shields.io/badge/Spring%20Security-%230A60A8?logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-%231A1A1A?logo=jsonwebtokens&logoColor=white"> |
 | **Database** | <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white"> |
 
-🛠️ DevOps
-<br>
+### DevOps
+<br >
 
 ## Architecture
 ### Infra
