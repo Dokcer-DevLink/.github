@@ -11,14 +11,14 @@
 |[김재만](https://github.com/mannMae)|[김문성](https://github.com/moonstar0331)|[강민구](https://github.com/mgKang3646)|[성종욱](https://github.com/Jongwook-Seong)|[최승진](https://github.com/digitaltulbo)|
 |**Frontend**|**Backend/DevOps**|**Backend**|**Backend**|**DevOps**|
 
-## 🚀 Tech Stack
-🛠️ Frontend
+## Tech Stack
+### Frontend
 <br>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/SOCKJS-010101?style=for-the-badge&logo=sockjs&logoColor=white">
 
-🛠️ Backend
+### Backend
 <br>
 
 | Component | Tech Stack |
@@ -31,7 +31,7 @@
 🛠️ DevOps
 <br>
 
-## 🚀 Architecture
-### 🛠️ Infra
+## Architecture
+### Infra
 
 <img width="9116" alt="인프라아키텍처" src="https://github.com/Dokcer-DevLink/.github/assets/80077569/9ab61405-c861-4bb0-87fe-5271897ed503">
