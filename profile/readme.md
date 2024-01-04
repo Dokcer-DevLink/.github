@@ -32,6 +32,10 @@
 <br >
 
 ## Architecture
-### Infra
+### Infra Architecture
 
-<img width="9116" alt="인프라아키텍처" src="https://github.com/Dokcer-DevLink/.github/assets/80077569/9ab61405-c861-4bb0-87fe-5271897ed503">
+<img width="9116" alt="인프라아키텍처" src="https://github.com/Dokcer-DevLink/.github/assets/80077569/6243c28f-46e1-4a7a-9b91-db18fe883388">
+
+
+### Service Architecture
+<img width="9116" alt="인프라아키텍처" src="https://github.com/Dokcer-DevLink/.github/assets/80077569/3555e8ba-17db-4976-a366-18abf4872108">
