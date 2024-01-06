@@ -11,6 +11,18 @@
 |[김재만](https://github.com/mannMae)|[김문성](https://github.com/moonstar0331)|[강민구](https://github.com/mgKang3646)|[성종욱](https://github.com/Jongwook-Seong)|[최승진](https://github.com/digitaltulbo)|
 |**Frontend**|**Backend/DevOps**|**Backend**|**Backend**|**DevOps**|
 
+## Application Overview
+<img width="100%" src="https://github.com/Dokcer-DevLink/profile-service/assets/12035241/2ff486b1-7713-48ed-99bf-b89d9abe72cd"/>
+<img width="100%" src="https://github.com/Dokcer-DevLink/profile-service/assets/12035241/bd821460-ccc8-4367-a124-f884262ed847"/>
+
+### Term of Project
+
+| **Phase** | **Term** | **Days** |
+|:--------:|:--------:|:--------:|
+| **Planning** | 23.11.14. ~ 23.11.24. | 11 |
+| **Design** | 23.11.27. ~ 23.12.1. | 15 |
+| **Implementation** | 23.12.12. ~ 24.01.04. | 24 |
+
 ## Tech Stack
 ### Frontend
 
