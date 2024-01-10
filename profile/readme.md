@@ -67,3 +67,18 @@
 
 ### Service Architecture
 <img width="9116" alt="인프라아키텍처" src="https://github.com/Dokcer-DevLink/.github/assets/80077569/3555e8ba-17db-4976-a366-18abf4872108">
+
+
+## Service Details
+
+|     Service      | URL                                                     | 
+|:----------------:|:--------------------------------------------------------|
+|   **Frontend**   | https://github.com/Dokcer-DevLink/frontend    |
+|  **APIGateway**  | https://github.com/Dokcer-DevLink/apigateway-service    |
+|     **Auth**     | https://github.com/Dokcer-DevLink/auth-service          |
+|   **Profile**    | https://github.com/Dokcer-DevLink/profile-service       |
+|     **Post**     | https://github.com/Dokcer-DevLink/post-service          |
+|     **Chat**     | https://github.com/Dokcer-DevLink/chat-service          |
+|  **Mentoring**   | https://github.com/Dokcer-DevLink/mentoring-service     |
+| **Notification** | https://github.com/Dokcer-DevLink/notification-service  |
+|   **Matching**   | https://github.com/Dokcer-DevLink/matching-service      |
