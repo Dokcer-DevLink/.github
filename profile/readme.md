@@ -33,25 +33,24 @@
 
 ### Backend
 
-| Component | Tech Stack |
-|:--------:|:--------:|
-| **Language** | <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white"> |
-| **Framework** | <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-%2302303A?logo=gradle&logoColor=white"> |
-| **ORM** | <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%2343853D?logo=springdatajpa&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-%23FFC859?logo=querydsl&logoColor=white"> |
-| **Authorization** | <img src="https://img.shields.io/badge/Spring%20Security-%230A60A8?logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-%231A1A1A?logo=jsonwebtokens&logoColor=white"> |
-| **Database** | <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white"> |
-| **Microservices** | <img src="https://img.shields.io/badge/Spring%20Cloud-%234EA94B?logo=spring&logoColor=white"> |
-| **AWS** | <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900?logo=amazonaws&logoColor=white"> |
-| **Message Broker** | <img src="https://img.shields.io/badge/Kafka-%23231F20?logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Zookeeper-%23181B1C?logo=apachezookeeper&logoColor=white"> |
-| **Other** | <img src="https://img.shields.io/badge/Naver%20Clova%20API-%2300C7B7?logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/Kakao%20Address%20API-%23FFD300?logo=kakaomap&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white"> |
+|     Component     |                                                                                                                                 Tech Stack                                                                                                                                 |
+|:-----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   **Language**    |                                                                                             <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=Java&logoColor=white">                                                                                              |
+|   **Framework**   | <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringCloud-%236DB33F?logo=spring&logoColor=white"> |
+|     **Build**     |                                                                                           <img src="https://img.shields.io/badge/Gradle-%2302303A?logo=gradle&logoColor=white">                                                                                            |
+|      **ORM**      |                                           <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%2343853D?logo=springdatajpa&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-%230A60A8?logoColor=white">                                            |
+|   **Database**    |                                                  <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white">                                                   |
+| **Message Broker** |                                                                                                                                          <img src="https://img.shields.io/badge/Kafka-%23231F20?logo=apache&logoColor=white">                                                                                                                                          |
+
+
 
 ### DevOps
 
-| Component | Tech Stack |
-|:--------:|:--------:|
-| **CI** | <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white"> |
-| **CD** | <img src="https://img.shields.io/badge/ArgoCD-%2337A0F1?logo=argocd&logoColor=white"> |
-| **Infrastructure** | <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/EKS-%23232F3E?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white"> |
+| Component |                                                                                                                                                                              Tech Stack                                                                                                                                                                               |
+|:---------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **CICD**  |           <img src="https://img.shields.io/badge/Git-%23231F20?logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/ArgoCD-%236DB33F?logo=argo&logoColor=white">           |
+| **Infra** |                                              <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/EKS-%23232F3E?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS -%23FF9900?logo=amazonaws&logoColor=white">                                               |
+|  **IaC**  |                                                                                                                                         <img src="https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white">                                                                                                                                         |
 
 ## Architecture
 ### Infra Architecture
