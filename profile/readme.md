@@ -11,17 +11,23 @@
 |[김재만](https://github.com/mannMae)|[김문성](https://github.com/moonstar0331)|[강민구](https://github.com/mgKang3646)|[성종욱](https://github.com/Jongwook-Seong)|[최승진](https://github.com/digitaltulbo)|
 |**Frontend**|**Backend/DevOps**|**Backend**|**Backend**|**DevOps**|
 
+<br/>
+
 ## Application Overview
 <img width="100%" src="https://github.com/Dokcer-DevLink/profile-service/assets/12035241/2ff486b1-7713-48ed-99bf-b89d9abe72cd"/>
 <img width="100%" src="https://github.com/Dokcer-DevLink/profile-service/assets/12035241/bd821460-ccc8-4367-a124-f884262ed847"/>
 
-### Term of Project
+<br/>
+
+## Term of Project
 
 | **Phase** | **Term** | **Days** |
 |:--------:|:--------:|:--------:|
 | **Planning** | 23.11.14. ~ 23.11.24. | 11 |
 | **Design** | 23.11.27. ~ 23.12.1. | 15 |
 | **Implementation** | 23.12.12. ~ 24.01.04. | 24 |
+
+<br/>
 
 ## Tech Stack
 ### Frontend
@@ -42,8 +48,6 @@
 |   **Database**    |                                                  <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white">                                                   |
 | **Message Broker** |                                                                                                                                          <img src="https://img.shields.io/badge/Kafka-%23231F20?logo=apache&logoColor=white">                                                                                                                                          |
 
-
-
 ### DevOps
 
 |   Component    |                                                                                                                                                                    Tech Stack                                                                                                                                                                     |
@@ -52,6 +56,9 @@
 |   **Infra**    |                                    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/EKS-%23232F3E?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS -%23FF9900?logo=amazonaws&logoColor=white">                                     |
 | **Monitoring** |                                  <img src="https://img.shields.io/badge/Prometheus-%23D24939?logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-%23FF9900?logo=Grafana&logoColor=white"> <img src="https://img.shields.io/badge/Slack -%23232F3E?logo=Slack&logoColor=white">                                   |
 |    **IaC**     |                                                                                                                            <img src="https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white">                                                                                                                            |
+
+<br/>
+
 
 ## Architecture
 ### Infra Architecture
