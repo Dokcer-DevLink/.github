@@ -11,13 +11,13 @@
 |[김재만](https://github.com/mannMae)|[김문성](https://github.com/moonstar0331)|[강민구](https://github.com/mgKang3646)|[성종욱](https://github.com/Jongwook-Seong)|[최승진](https://github.com/digitaltulbo)|
 |**Frontend**|**Backend/DevOps**|**Backend**|**Backend**|**DevOps**|
 
-<br/>
+<br>
 
 ## Application Overview
 <img width="100%" src="https://github.com/Dokcer-DevLink/profile-service/assets/12035241/2ff486b1-7713-48ed-99bf-b89d9abe72cd"/>
 <img width="100%" src="https://github.com/Dokcer-DevLink/profile-service/assets/12035241/bd821460-ccc8-4367-a124-f884262ed847"/>
 
-<br/>
+<br>
 
 ## Term of Project
 
@@ -27,7 +27,7 @@
 | **Design** | 23.11.27. ~ 23.12.1. | 15 |
 | **Implementation** | 23.12.12. ~ 24.01.04. | 24 |
 
-<br/>
+<br>
 
 ## Tech Stack
 ### Frontend
@@ -57,7 +57,7 @@
 | **Monitoring** |                                  <img src="https://img.shields.io/badge/Prometheus-%23D24939?logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-%23FF9900?logo=Grafana&logoColor=white"> <img src="https://img.shields.io/badge/Slack -%23232F3E?logo=Slack&logoColor=white">                                   |
 |    **IaC**     |                                                                                                                            <img src="https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white">                                                                                                                            |
 
-<br/>
+<br>
 
 
 ## Architecture
@@ -68,6 +68,7 @@
 ### Service Architecture
 <img width="9116" alt="인프라아키텍처" src="https://github.com/Dokcer-DevLink/.github/assets/80077569/3555e8ba-17db-4976-a366-18abf4872108">
 
+<br>
 
 ## Service Details
 
